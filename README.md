@@ -1,6 +1,6 @@
 ## Cricket Power BI Dashboard:
 
-- **Introduction:** <br/>
+**Introduction:** <br/>
 Welcome to the Cricket Power BI Dashboard repository, a comprehensive analytics tool designed to provide insights into the performance of cricket players, specifically focusing on openers, anchors, all-rounders, and fast bowlers.
 
 **Project Objective:** <br/>
